@@ -2,4 +2,5 @@
 
 Included in WiDefend Android
 
-FindingIP.java
+FindingIP.java use webView
+FindingIPnew.java use HttpURLConnection
