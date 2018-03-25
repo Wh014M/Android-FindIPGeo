@@ -2,5 +2,5 @@
 
 Included in WiDefend Android
 
-FindingIP.java use webView
-FindingIPnew.java use HttpURLConnection
+- FindingIP.java use webView output json
+- FindingIPnew.java use HttpURLConnection output string
